@@ -8,10 +8,11 @@
 
 ---
 
-## 📽️ Video Walkthrough
+## 📺 Project Demo
 Experience the autonomous journey from raw data ingestion to executive document delivery.
 
 https://www.loom.com/share/d99db33a23dc47e0840b0327ad7c1cf7
+
 ---
 
 ## 🚀 The Solution: Autonomous Marketing Intelligence
